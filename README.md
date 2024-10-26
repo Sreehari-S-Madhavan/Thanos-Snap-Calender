@@ -30,10 +30,7 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-Include the FullCalendar library via CDN in your HTML file:
-```html
-<link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.2/main.min.css" rel="stylesheet" />
-<script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.2/main.min.js"></script>
+
 
 # Run
 [commands]
@@ -43,9 +40,6 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -82,9 +76,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ithihas S: Coding and Brainstorming 
+- Sreehari S Madhavan: Ai assist and Updation of project
+- Swetha Shyam:  Brainstroming and Updation of project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
