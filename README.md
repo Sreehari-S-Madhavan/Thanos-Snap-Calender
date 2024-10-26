@@ -1,43 +1,39 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-
+# Thanos Snap Calendar 🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Devadoothan
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ithihas S- College of Engineering, Karunagappally
+- Member 2: Sreehari S Madhavan-College of Engineering, Karunagappally
+- Member 3: Swetha Shyam- College of Engineering, Karunagappally
 
 ### Project Description
-[2-3 lines about what your project does]
+A calendar application that allows users to select a year and view its events. The application features a unique "Snap" button that removes the oldest year from the list with a fun animation.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+What if we could get rid of years we no longer need? Why should we keep the past when we can snap it away?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Using the Thanos Snap Calendar, you can simply click a button to remove the oldest year from your view, making it a lighthearted way to manage your calendar!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- CSS
+- JavaScript
+- FullCalendar library
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Include the FullCalendar library via CDN in your HTML file:
+```html
+<link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.2/main.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.10.2/main.min.js"></script>
 
 # Run
 [commands]
@@ -46,8 +42,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
